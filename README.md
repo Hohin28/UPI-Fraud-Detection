@@ -10,6 +10,8 @@ With the rapid growth of digital payments in India, UPI fraud has become a major
 This project aims to identify suspicious transactions by analyzing patterns and detecting anomalies in user behavior.
 
 ---
+![WhatsApp Image 2025-12-07 at 14 03 08_826b7614](https://github.com/user-attachments/assets/c984b08d-d8a9-4126-96e2-40082e018ebd)
+![IMG-20251208-WA0005](https://github.com/user-attachments/assets/9832ac4b-fb7f-416b-b5a1-9c77b0a35fba)
 
 ## 🚀 Features
 
